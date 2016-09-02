@@ -6,13 +6,17 @@
 
 ## Concept
 ### Issue
-  ** Version 1 **
+  #### Version 1 ####
   With the advancement of technology and the increasing popularity of social networks, people nowadays are constantly bombarded with news and information. That raises an important issue: how do you know whether a piece of news is correct? Especially if it is supposed to be news on a current event? The current social media networks such as Facebook or Twitter facilitate the 'upvote' system, where users can upvote a post if they like it. However, a post with many likes is not necessarily a reliable post. As a result, a different system is needed to facilitate the distribution of verified news.
   
-### Solution
+### Solution ###
+ #### Version 1 ####
+ The main issue with a new social network is how to attract new users, as well as how to encourage them to generate more content and thus make the community self-sustainable.  
+
+
 The user's experience with the app is similar to a space trip around the 'univers of news and information'
 
-## Team
+## Team ##
 Name | Role | Student Number
 ---- | ---- | --------------
 Nhan Tri Nim | Programmer | 44215433
@@ -29,7 +33,8 @@ The main Slack course channel will be used to communicate with other teams, as w
 The main meeting will be during the studio session on Friday
 There will be an extra online meeting every week 
 
-## Plan
+## Plan ##
+A plan will be developed 
 
 ### Goals (and timeframes)
 
