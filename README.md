@@ -6,10 +6,7 @@
 
 ## Concept
 ### Issue
-  Nowadays people are constantly bombarded with a lot of news.  
-  Whenever a short piece of news is posted, 
-  
-  Verification of news, especially news related to current events
+  With the advancement of technology and the increasing popularity of social networks, people nowadays are constantly bombarded with news and information. That raises an important issue: how do you know whether a piece of news is correct? Especially if it is supposed to be news on a current event? The current social media networks such as Facebook or Twitter facilitate the 'upvote' system, where users can upvote a post if they like it. However, a post with many likes is not necessarily a reliable post. As a result, a different system is needed to facilitate the distribution of verified news.
   
 ### Solution
 The user's experience with the app is similar to a space trip around the 'univers of news and information'
