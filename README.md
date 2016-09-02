@@ -12,12 +12,12 @@
 The user's experience with the app is similar to a space trip around the 'univers of news and information'
 
 ## Team
-Name | Role
----- | ----
-Nhan Tri Nim | Programmer
-Yuzhan Zhang | Designer
-Soobin Son | Database Designer
-Dang Khoi Phan | Programmer
+Name | Role | Student Number
+---- | ---- | --------------
+Nhan Tri Nim | Programmer | 44215433
+Yuzhan Zhang | Designer | 42871303
+Soobin Son | Database Designer | 43152120
+Dang Khoi Phan | Programmer | 43666887
 
 
 ## Communication
