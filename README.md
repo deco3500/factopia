@@ -6,6 +6,7 @@
 
 ## Concept
 ### Issue
+  ** Version 1 **
   With the advancement of technology and the increasing popularity of social networks, people nowadays are constantly bombarded with news and information. That raises an important issue: how do you know whether a piece of news is correct? Especially if it is supposed to be news on a current event? The current social media networks such as Facebook or Twitter facilitate the 'upvote' system, where users can upvote a post if they like it. However, a post with many likes is not necessarily a reliable post. As a result, a different system is needed to facilitate the distribution of verified news.
   
 ### Solution
