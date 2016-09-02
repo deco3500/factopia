@@ -1,5 +1,5 @@
 # factopia
-![alt tag](https://thumbs.dreamstime.com/z/cartoon-spaceship-25341429.jpg)
+![alt tag](http://i.imgur.com/FhewJSP.jpg?1)
 
 ## Introduction
 **factopia** is a visual social news network, that facilitates the distribution of verified news and information
