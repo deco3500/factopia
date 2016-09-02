@@ -2,12 +2,13 @@
 ![alt tag](https://thumbs.dreamstime.com/z/cartoon-spaceship-25341429.jpg)
 
 ## Introduction
+**factopia** is a visual social news network, that facilitates the distribution of verified news and information
 
 ## Concept
+The user's experience with the app is similar to a space trip around the 'univers of news and information'
 
 ## Team
-
-###Name - Role
+**Name - Role**
 Nhan Tri Nim - Programmer
 Yuzhan Zhang - Designer
 Soobin Son - Database Designer
