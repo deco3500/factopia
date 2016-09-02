@@ -13,10 +13,10 @@ The user's experience with the app is similar to a space trip around the 'univer
 
 ## Team
 **Name - Role**
-Nhan Tri Nim - Programmer
-Yuzhan Zhang - Designer
-Soobin Son - Database Designer
-Dang Khoi Phan - Programmer
+ - Nhan Tri Nim - Programmer
+ - Yuzhan Zhang - Designer
+ - Soobin Son - Database Designer
+ - Dang Khoi Phan - Programmer
 
 
 ## Communication
