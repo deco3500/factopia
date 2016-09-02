@@ -6,6 +6,7 @@
 
 ## Concept
 ### Issue
+<<<<<<< HEAD
   Nowadays people are constantly bombarded with a lot of news. 
   Consider the following scenario: you are surfing your favorite social network platform, someone decide to post something like "Chris Brown just got arrested for DUI, *sad face*", you (being a hardcore fan of the singer) feel like your world are falling apart (for some reason). 
   But then its turn out it just someone try to be funny and doing it for the intention. How many times has that already happen to you?
@@ -23,6 +24,25 @@ Nhan Tri Nim - Programmer
 Yuzhan Zhang - Designer
 Soobin Son - Database Designer
 Dang Khoi Phan - Programmer
+=======
+  #### Version 1 ####
+  With the advancement of technology and the increasing popularity of social networks, people nowadays are constantly bombarded with news and information. That raises an important issue: how do you know whether a piece of news is correct? Especially if it is supposed to be news on a current event? The current social media networks such as Facebook or Twitter facilitate the 'upvote' system, where users can upvote a post if they like it. However, a post with many likes is not necessarily a reliable post. As a result, a different system is needed to facilitate the distribution of verified news.
+  
+### Solution ###
+ #### Version 1 ####
+ The main issue with a new social network is how to attract new users, as well as how to encourage them to generate more content and thus make the community self-sustainable.  
+
+
+The user's experience with the app is similar to a space trip around the 'univers of news and information'
+
+## Team ##
+Name | Role | Student Number
+---- | ---- | --------------
+Nhan Tri Nim | Programmer | 44215433
+Yuzhan Zhang | Designer | 42871303
+Soobin Son | Database Designer | 43152120
+Dang Khoi Phan | Programmer | 43666887
+>>>>>>> 1dbd99ca2994e2726456965ea7cd2967ec981395
 
 
 ## Communication
@@ -33,7 +53,8 @@ The main Slack course channel will be used to communicate with other teams, as w
 The main meeting will be during the studio session on Friday
 There will be an extra online meeting every week 
 
-## Plan
+## Plan ##
+A plan will be developed 
 
 ### Goals (and timeframes)
 
