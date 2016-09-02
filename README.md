@@ -5,6 +5,13 @@
 **factopia** is a visual social news network, that facilitates the distribution of verified news and information
 
 ## Concept
+### Issue
+  Nowadays people are constantly bombarded with a lot of news.  
+  Whenever a short piece of news is posted, 
+  
+  Verification of news, especially news related to current events
+  
+### Solution
 The user's experience with the app is similar to a space trip around the 'univers of news and information'
 
 ## Team
@@ -19,8 +26,12 @@ Dang Khoi Phan - Programmer
 The main communication among team members will be through the facebook group chat 
 The code base of the project will be in Github, and designs will also be uploaded to the github repository.
 The main Slack course channel will be used to communicate with other teams, as well as get updates on the current progress of the course.
-
-## Team meeting plans
+### Team meeting plans
 The main meeting will be during the studio session on Friday
 There will be an extra online meeting every week 
 
+## Plan
+
+### Goals (and timeframes)
+
+## Tags
