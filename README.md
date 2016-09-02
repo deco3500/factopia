@@ -6,14 +6,17 @@
 
 ## Concept
 ### Issue
-  Nowadays people are constantly bombarded with a lot of news.  
-  Whenever a short piece of news is posted, 
-  
-  Verification of news, especially news related to current events
+  Nowadays people are constantly bombarded with a lot of news. 
+  Consider the following scenario: you are surfing your favorite social network platform, someone decide to post something like "Chris Brown just got arrested for DUI, *sad face*", you (being a hardcore fan of the singer) feel like your world are falling apart (for some reason). 
+  But then its turn out it just someone try to be funny and doing it for the intention. How many times has that already happen to you?
   
 ### Solution
-The user's experience with the app is similar to a space trip around the 'univers of news and information'
-
+  Well, how about a place where you can verify anything and everything that is regardeds as news by anyone?
+  We provide not just the confirmation of news, but give the user a wonderfull experience while they at it.
+  A social network, that inform people of news and mask it as an space journey that contain lot of visualization and not a dull momment. Where everything is space-related, where news are planets that are created by a user and thrive solely on other decisions.
+  
+  That is Factopia
+ 
 ## Team
 **Name - Role**
 Nhan Tri Nim - Programmer
