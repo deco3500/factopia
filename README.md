@@ -1,2 +1,27 @@
 # factopia
 ![alt tag](https://thumbs.dreamstime.com/z/cartoon-spaceship-25341429.jpg)
+
+## Introduction
+
+## Concept
+
+## Team
+
+Name
+Role
+Nhan Tri Nim
+Programmer
+Yuzhan Zhang
+Designer
+Soobin Son - Database Designer
+Dang Khoi Phan - Programmer
+
+
+Communication
+The main communication among team members will be through the facebook group chat 
+The code base of the project will be in Github, and designs will also be uploaded to the github repository.
+The main Slack course channel will be used to communicate with other teams, as well as get updates on the current progress of the course.
+Team meeting plans
+The main meeting will be during the studio session on Friday
+There will be an extra online meeting every week 
+Plan
