@@ -9,13 +9,14 @@
 ### Issue
   
   Nowadays people are constantly bombarded with a lot of news. 
-  Consider the following scenario: you are surfing your favorite social network platform, someone decide to post something like "Chris Brown just got arrested for DUI, *sad face*", you (being a hardcore fan of the singer) feel like your world are falling apart (for some reason). 
-  But then its turn out it just someone try to be funny and doing it for the intention. How many times has that already happen to you?
+  Consider the following scenario: You are surfing your favorite social network platform all jolly and such, behaving like how a standup citizen would, then someone decided to post something along the line of "The Earth is not actually flat, *Gasps". Being a believer yourself and based your whole life around it, it is not surprising that something like this would ruin your day and would take some time out of your life looking at walls of text just to verify it.
+  But then its turn out it just someone doing it for the fun and giggles...not that I'm denying the integrity of the statement. How many times have that already happen to you? Are you tired of walls of text, I know that I am.
   
 ### Solution
-  Well, how about a place where you can verify anything and everything that is regardeds as news by anyone?
-  We provide not just the confirmation of news, but give the user a wonderfull experience while they at it.
-  A social network, that inform people of news and mask it as an space journey that contain lot of visualization and not a dull momment. Where everything is space-related, where news are planets that are created by a user and thrive solely on other decisions.
+  
+  Well, how about a place where you can verify absolutely anything and everything that is regardeds as news by anyone?
+  We not only provide the news(), but also give the user a wonderfull experience while they trying to obtain it.
+  A social network, which is catered to feel like an space journey that contain lot of visualizations and effects. A universe, where you can go on a space experdition to seek the truth and having the power to create your own giant flying rocks whose entire existence and prosperity are depend on its ability to provide useful information to other fine space astronaunts such as yourself. 
   
   That is Factopia
 
