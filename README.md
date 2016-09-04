@@ -51,6 +51,16 @@ Dang Khoi Phan | Programmer | 43666887
     - The main designer of the team - in charge of generating creative design ideas as well as making sure the designs are consistent
     - In charge of producing a variety of designs, as well as testing those designs with potential users
 
+### Team Charter ###
+**Decision Making**
+  - Brainstorming sessions are carried out whenever a new solution needs to be generated. During the brainstorming session, Khoi will be in charge of making sure no ideas are rejected, while at the end, Nhan will be in charge of making sure each idea is evaluated carefully
+  - Whenever there are several ideas/solutions that are conflicting, the team will set up criteria and requirements in order to evaluate those solutions, in order to narrow them down and the evaluation is done again, iteratively until there is only one solution left.
+
+**Team Responsibility**
+  - At each stage of the project, each team member is responsible for an aspect of the application. By that, it means they need to make sure the goal for that aspect is reached by the agreed team deadline. However, other team members should also provide help willingly when possible, and the one in charge should also call out for help whenever necessary. 
+  - When someone is behind in his or her part, they must make an effort to notify other team members about the issue, in order for others to help them out and make sure the project stays on track.
+  - If there is conflict within the team, Khoi - the team manager - is responsible for making sure the conflict is resolved quickly and peacefully, and all the differences are resolved.
+
 ## Communication
 The main communication among team members will be through the facebook group chat 
 The code base of the project will be in Github, and designs will also be uploaded to the github repository.
