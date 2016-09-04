@@ -2,32 +2,24 @@
 ![alt tag](http://i.imgur.com/FhewJSP.jpg?1)
 
 ## Introduction
-**factopia** is a visual social news network, that facilitates the distribution of verified news and information
+**Factopia** is a visual social news network, that facilitates the distribution of verified news and information in the form of space expedition. The social news network that is created by the user and for the user.
 
 ## Concept
-#### Version 2
 ### Issue
   
   Nowadays people are constantly bombarded with a lot of news. 
-  Consider the following scenario: You are surfing your favorite social network platform all jolly and such, behaving like how a standup citizen would, then someone decided to post something along the line of "The Earth is not actually flat, *Gasps". Being a believer yourself and based your whole life around it, it is not surprising that something like this would ruin your day and would take some time out of your life looking at walls of text just to verify it.
-  But then its turn out it just someone doing it for the fun and giggles...not that I'm denying the integrity of the statement. How many times have that already happen to you? Are you tired of walls of text, I know that I am.
+  Consider the following scenario: You are surfing your favorite social network platform all jolly and such, behaving like how a standup citizen would, then someone decided to post something along the line of "Gummy bear does not contain real bear, *Gasps*". Being a long time supporter of the product, you went out of your way to verify the fact, meaning a lot of surfing the web with promise of walls of text await not knowing it just someone doing it for the fun and giggles...
+  How many times have that already happen to you? 
+  Are you tired of walls of text?
+  I know that I am.
   
 ### Solution
   
   Well, how about a place where you can verify absolutely anything and everything that is regardeds as news by anyone?
-  We not only provide the news(), but also give the user a wonderfull experience while they trying to obtain it.
+  We not only help circulate the news and facts, but also give the user a wonderfull experience while they trying to obtain it.
   A social network, which is catered to feel like an space journey that contain lot of visualizations and effects. A universe, where you can go on a space experdition to seek the truth and having the power to create your own giant flying rocks whose entire existence and prosperity are depend on its ability to provide useful information to other fine space astronaunts such as yourself. 
   
   That is Factopia
-
-
-#### Version 1
-
-  With the advancement of technology and the increasing popularity of social networks, people nowadays are constantly bombarded with news and information. That raises an important issue: how do you know whether a piece of news is correct? Especially if it is supposed to be news on a current event? The current social media networks such as Facebook or Twitter facilitate the 'upvote' system, where users can upvote a post if they like it. However, a post with many likes is not necessarily a reliable post. As a result, a different system is needed to facilitate the distribution of verified news.
-  
-  The main issue with a new social network is how to attract new users, as well as how to encourage them to generate more content and thus make the community self-sustainable.  
-
-  The user's experience with the app is similar to a space trip around the 'univers of news and information'
 
 ## Team ##
 Name | Role | Student Number
