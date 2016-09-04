@@ -21,7 +21,7 @@
   
   That is Factopia
 
-## Team ##
+## Team
 Name | Background | Student Number | Course Code
 ---- | ---- | -------------- | -----------
 Nhan Tri Nim | Programmer | 44215433 | DECO3500
@@ -29,7 +29,7 @@ Yuzhan Zhang (Bella) | Designer | 42871303 | DECO3500
 Soobin Son | Database Designer | 43152120 | DECO3500
 Dang Khoi Phan | Programmer | 43666887 | DECO3500
 
-  ### Breakdown of general roles and technical roles in the team ###
+  ### Breakdown of general roles and technical roles in the team
   1. Khoi
     - Team manager - making sure everyone is on track
     - Organising meetings and facilitate communications among team members
@@ -47,7 +47,7 @@ Dang Khoi Phan | Programmer | 43666887 | DECO3500
     - The main designer of the team - in charge of generating creative design ideas as well as making sure the designs are consistent
     - In charge of producing a variety of designs, as well as testing those designs with potential users
 
-  ### Team Charter ###
+  ### Team Charter
   
 ## Communication ##
 The main communication among team members will be through the facebook group chat 
