@@ -30,6 +30,7 @@ Soobin Son | Database Designer | 43152120 | DECO3500
 Dang Khoi Phan | Programmer | 43666887 | DECO3500
 
   ### Breakdown of general roles and technical roles in the team
+  
   1. Khoi
     - Team manager - making sure everyone is on track
     - Organising meetings and facilitate communications among team members
