@@ -7,7 +7,7 @@
 ### Issue
   
   Nowadays people are constantly bombarded with a lot of news. 
-  Consider the following scenario: You are surfing your favorite social network platform all jolly and such, behaving like how a standup citizen would, then someone decided to post something along the line of "Gummy bear does not contain real bear, *Gasps*". Being a long time supporter of the product, you went out of your way to verify the fact, meaning a lot of surfing the web with the promise of walls of text, not knowing if it just someone doing it for the fun and giggles...
+  Consider the following scenario: You are surfing your favorite social network platform all jolly and such, behaving like how a standup citizen would, then someone decided to post something along the line of "Gummy bear contain real bear, *Gasps*". Being a long time supporter of the product, you went out of your way to verify the fact, meaning a lot of surfing the web with the promise of walls of text, not knowing if it just someone doing it for the fun and giggles...
   How many times have that already happen to you? 
   Are you tired of walls of text?
   I know that I am.
@@ -21,7 +21,7 @@
   That is Factopia
 
 ### Audience
-  Since this the app focus on visualization the distribution of information, naturally space enthusiasts and teenager and people who are expose to the many existing social network an wanting a something with more than just block of text when they enquiry for information will be its main targeting audience. However as the project grow there will be difference experience constructed to every user type based on their preferences.
+  Since the app focus on visualizing the distribution of information and news, naturally space enthusiasts and teenager and people who are exposed to the many existing social network an wanting a something with more than just blocks of text when they enquiry for information will be its main targeting audience. However, as the project grows, we plan to construct many different experiences that suitable for each individual so that everyone can enjoy and utilize all of the benefits that the application can offer.
   
 #### Where's it difference from other technology existed
   It should be clear by now that the objective of our project is to transform the way people obtain news and fact by making it fun and exiting. It is a hybrid between a social network and a space exploring game to produce a brand new experience for people of all ages.
