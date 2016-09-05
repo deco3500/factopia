@@ -79,7 +79,8 @@ Dang Khoi Phan | Programmer | 43666887
 
 ## Plan ##
 
-Research and and plan
+###Research and and plan
+
 Week | Course events | Team goals
 -------- | ------------------- | -------------- 
 7 | Proposal due Monday 23:59 | Finalize the design concept and start implementation. The designer will need to come up with several designs for 
