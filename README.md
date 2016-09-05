@@ -3,7 +3,6 @@
 
 ## Introduction
 **Factopia** is a visual social news network, that facilitates the distribution and verification news and information in the form of space expedition. It is a community based social network.
-
 ## Concept
 ### Issue
   
@@ -21,6 +20,12 @@
   
   That is Factopia
 
+### Audience
+  Since this the app focus on visualization the distribution of information, naturally space enthusiasts and teenager and people who are expose to the many existing social network an wanting a something with more than just block of text when they enquiry for information will be its main targeting audience. However as the project grow there will be difference experience constructed to every user type based on their preferences.
+  
+#### Where's it difference from other technology existed
+  It should be clear by now that the objective of our project is to transform the way people obtain news and fact by making it fun and exiting. It is a hybrid between a social network and a space exploring game to produce a brand new experience for people of all ages.
+  
 ## Team ##
 Name | Role | Student Number
 ---- | ---- | --------------
