@@ -48,7 +48,7 @@ Dang Khoi Phan | Programmer | 43666887
     - The 'critic' of the team: provides critical and insightful feedback for others' ideas
 
   3. Soobin
-    - Database designer
+    - Database designer and social media manager
     - Manage the data - the content of the application
     - Manage social media, generate and conduct user testing and surveys
 
@@ -67,12 +67,16 @@ Dang Khoi Phan | Programmer | 43666887
   - If there is conflict within the team, Khoi - the team manager - is responsible for making sure the conflict is resolved quickly and peacefully, and all the differences are resolved.
 
 ## Communication
-The main communication among team members will be through the facebook group chat 
-The code base of the project will be in Github, and designs will also be uploaded to the github repository.
-The main Slack course channel will be used to communicate with other teams, as well as get updates on the current progress of the course.
-### Team meeting plans
-The main meeting will be during the studio session on Friday
-There will be an extra online meeting every week 
+
+### Team Communication
+  - The main team meeting will be during the studio session on Friday. An extra meeting during the week will be scheduled whenever the team needs to discuss an urgent issue. Otherwise team members can communicate via the Facebook Group Chat.
+  - The reason facebook is chosen instead of Slack is because team members will have a higher chance of checking their facebook chat than Slack, since it is not the official form of communication.
+  - The main Slack channel will be checked frequently by the social media manager, and all new updates will be related back to all other team members
+
+### Project Format
+  - Github will be used to store all code as well as designs - measures have been taken to make sure all members know how to use SourceTree in order to make commits to the remote server, as well as create and manage separate branches for feature development
+  - File names must not contain spaces - underscores should be used instead to separate words.
+  - Designs should be in PNG24 format
 
 ## Plan ##
 A plan will be developed 
