@@ -84,3 +84,13 @@ A plan will be developed
 ### Goals (and timeframes)
 
 ## Tags
+### Social and Mobile Computing
+  - Awareness
+  - A spatial modal of interaction
+  - Requirements gathering
+  - Explicit social engagement
+  - Privacy
+
+###Journalism Resources
+  - Mobile technology
+  - NewsCube
