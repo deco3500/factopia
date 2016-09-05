@@ -77,7 +77,7 @@ Dang Khoi Phan | Programmer | 43666887
   - File names must not contain spaces - underscores should be used instead to separate words.
   - Designs should be in PNG24 format
 
-## Plan ##
+## Plan 
 
 ###nWeek | Course es | D | Team plan | Deliverables | Tools and resources needed 
  | ------------------
