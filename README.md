@@ -86,7 +86,7 @@ Dang Khoi Phan | Programmer | 43666887
 ## Plan 
 
 Week | Course events | Team plan | Deliverables | Tools and resources needed 
--------- | ------------------- | -------------- | ---------------- | ---------------------------
+| :--------: | ------------------- | -------------- | ---------------- | ---------------------------
 7 | Proposal due Monday 23:59 | Finalize the design concept, decide on whether to create a horizontal prototype or a vertical prototype, and start implementation. Bella will need to come up with several designs for the UI. Khoi and Nhan will start implementing the core functionality of the app. Soobin will gather user and usability requirements | A set of different design styles for the app. A basic app that have some functionality such as simple buttons. Survey responses for requirements | Illustrator, React Native, surveys to gather requirements
 8 | Stand-up session on Friday | By friday, there should be at least some basic functionality done for the app. The main design style will be chosen and if possible, implemented into the app using CSS styling. Bella and Soobin will do user testing with the designs | An app with some styling implemented. More functionalities in the app. Feedback from users regarding the designs | React Native, CSS Styling 
 9 |   | At the beginning of the week, a meeting will be held to determine the feasibility of the project based on what has been done so far, and a set of core features will be chosen to implement in code and design | A clearer direction for the project, as well as a new set of tasks to be done | Team meeting on Monday
