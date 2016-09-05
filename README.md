@@ -2,29 +2,28 @@
 ![alt tag](http://i.imgur.com/FhewJSP.jpg?1)
 
 ## Introduction
-**Factopia** is a visual social news network, that facilitates the distribution and verification news and information in the form of space expedition. It is a community based social network.
+**Factopia** is a visual social news network, that facilitates the distribution and verification news and information in the form of space expedition. It is a community based, community-driven social network.
+
 ## Concept
+
 ### Issue
   
-  Nowadays people are constantly bombarded with a lot of news. 
-  Consider the following scenario: You are surfing your favorite social network platform all jolly and such, behaving like how a standup citizen would, then someone decided to post something along the line of "Gummy bear contain real bear, *Gasps*". Being a long time supporter of the product, you went out of your way to verify the fact, meaning a lot of surfing the web with the promise of walls of text, not knowing if it just someone doing it for the fun and giggles...
-  How many times have that already happen to you? 
-  Are you tired of walls of text?
-  I know that I am.
+  Nowadays people are constantly bombarded with a lot of news. With that abundance of information comes many new, unprecedented issues that are still unable to be resolved by the current social media networks.
+  Consider the following scenario: You are leisurely surfing your favorite social network platform, when suddenly you come across a headline: “Scientists have just discovered a new way of weight loss using a diet based on cucumbers”. Being a cautious reader, you would immediately question such an article, and so would like to verify it. However, now you are faced with a different dilemma: “do I really want to look through walls of text to find the answer? Even if I post up a question in a forum, I may not get an answer immediately, and even if I do, how do I know if that answer is trustworthy?”. That is one of the many issues with news nowadays.
+  Consider another scenario, instead of that shady headline, what if you come across something like: “Johnny Depp is eating in restaurant X!”. Being a big fan of Pirates of the Caribbean, you would like to find out more about what your favourite actor is. The question is: where can I find more information about such events? If Twitter, which hashtag should I use? If I wait until the newspaper articles come out, it is already too late, and even Facebook might not update fast enough. How can I get up-to-date with what Johnny Depp is doing?
+  Factopia is an application that directly addresses those issues.
   
-### Solution
-  
-  Well, how about a place where you can verify absolutely anything and everything that is regardeds as news by anyone?
-  We not only help circulate the news and facts, but also give the user a wonderfull experience while they trying to obtain it.
-  A social network, which is catered to feel like an space journey that contain lot of visualizations and effects. A universe, where you can go on a space experdition to seek the truth and having the power to create your own giant flying rocks whose entire existence and prosperity are depend on its ability to provide useful information to other fine space astronaunts such as yourself. 
-  
-  That is Factopia
+### Design Solution
+
+  Factopia is designed to allow people who are more credible will have greater weight in their voice. What that means is that when a post is uploaded, people can either vote it up or down. However, each person’s vote has different weight. Someone with higher credibility rating will have a greater weight in their vote than someone with lower credibility rating. The overall impact is that, even if there are many people (who do not have high credibility) up-voting a certain post, when someone with a high credibility comes along and down-votes it, the post’s credibility point will go down significantly. If someone has a lot of highly verified post, his credibility rating will go up. This will make sure that well-verified news are more abundant in the network of news provided by Factopia.
+  In order to make the application more attractive, the theme of the app will be a space-exploration theme. In the universe of Factopia, each post is a planet, and anyone can visit different planets and talk to different peoples who are either currently on that planet, or have set up subscription to a certain planet. To create a related post, users can ‘spawn’ a new planet near the planet that they see, and so that newly spawned post will be group together with the original post. Related planets (posts) will be automatically grouped to form a universe, and users can traverse between universes using a variety of filters and search terms, such as “Local News”, “Hottest News”, “Celebrity Updates”. With this grouping system, it will ensure that users can get updates on a certain topic (represented by a ‘universe’ - a group of planets) very quickly by traversing and exploring planets in that universe.
+  Each person will also have a ‘home base’, which is based on their actual GPS location. When they relocate back to their home base, they can browse the most local news around them.
 
 ### Audience
-  Since the app focus on visualizing the distribution of information and news, naturally space enthusiasts and teenager and people who are exposed to the many existing social network an wanting a something with more than just blocks of text when they enquiry for information will be its main targeting audience. However, as the project grows, we plan to construct many different experiences that suitable for each individual so that everyone can enjoy and utilize all of the benefits that the application can offer.
+  Since the app focus on visualizing the distribution of information and news, naturally space enthusiasts and teenager and people who are exposed to the many existing social network and desiring something with more than just blocks of text when they enquire for information will be its main target audience. However, as the project grows, we may redesign the user interface to accommodate a greater audience pool.
   
-#### Where's it difference from other technology existed
-  It should be clear by now that the objective of our project is to transform the way people obtain news and fact by making it fun and exiting. It is a hybrid between a social network and a space exploring game to produce a brand new experience for people of all ages.
+#### How it differs from existing technologies
+  It should be clear by now that Factopia is not just a social network. It is a social network that focuses on making sure people can get updates from the most current news easily, but still ensure the quality of those news by providing a very rigorous community-driven verification system. On top of that, the visual concept is designed to make obtaining news more fun and exciting, and providing a brand new social media experience for the users.
   
 ## Team ##
 Name | Role | Student Number
@@ -79,7 +78,12 @@ Dang Khoi Phan | Programmer | 43666887
   - Designs should be in PNG24 format
 
 ## Plan ##
-A plan will be developed 
+
+Research and and plan
+Week | Course events | Team goals
+-------- | ------------------- | -------------- 
+7 | Proposal due Monday 23:59 | Finalize the design concept and start implementation. The designer will need to come up with several designs for 
+
 
 ### Goals (and timeframes)
 
