@@ -9,14 +9,19 @@
 ### Issue
   
   Nowadays people are constantly bombarded with a lot of news. With that abundance of information comes many new, unprecedented issues that are still unable to be resolved by the current social media networks.
+  
   Consider the following scenario: You are leisurely surfing your favorite social network platform, when suddenly you come across a headline: “Scientists have just discovered a new way of weight loss using a diet based on cucumbers”. Being a cautious reader, you would immediately question such an article, and so would like to verify it. However, now you are faced with a different dilemma: “do I really want to look through walls of text to find the answer? Even if I post up a question in a forum, I may not get an answer immediately, and even if I do, how do I know if that answer is trustworthy?”. That is one of the many issues with news nowadays.
+  
   Consider another scenario, instead of that shady headline, what if you come across something like: “Johnny Depp is eating in restaurant X!”. Being a big fan of Pirates of the Caribbean, you would like to find out more about what your favourite actor is. The question is: where can I find more information about such events? If Twitter, which hashtag should I use? If I wait until the newspaper articles come out, it is already too late, and even Facebook might not update fast enough. How can I get up-to-date with what Johnny Depp is doing?
+  
   Factopia is an application that directly addresses those issues.
   
 ### Design Solution
 
   Factopia is designed to allow people who are more credible will have greater weight in their voice. What that means is that when a post is uploaded, people can either vote it up or down. However, each person’s vote has different weight. Someone with higher credibility rating will have a greater weight in their vote than someone with lower credibility rating. The overall impact is that, even if there are many people (who do not have high credibility) up-voting a certain post, when someone with a high credibility comes along and down-votes it, the post’s credibility point will go down significantly. If someone has a lot of highly verified post, his credibility rating will go up. This will make sure that well-verified news are more abundant in the network of news provided by Factopia.
+  
   In order to make the application more attractive, the theme of the app will be a space-exploration theme. In the universe of Factopia, each post is a planet, and anyone can visit different planets and talk to different peoples who are either currently on that planet, or have set up subscription to a certain planet. To create a related post, users can ‘spawn’ a new planet near the planet that they see, and so that newly spawned post will be group together with the original post. Related planets (posts) will be automatically grouped to form a universe, and users can traverse between universes using a variety of filters and search terms, such as “Local News”, “Hottest News”, “Celebrity Updates”. With this grouping system, it will ensure that users can get updates on a certain topic (represented by a ‘universe’ - a group of planets) very quickly by traversing and exploring planets in that universe.
+  
   Each person will also have a ‘home base’, which is based on their actual GPS location. When they relocate back to their home base, they can browse the most local news around them.
 
 ### Audience
@@ -77,18 +82,17 @@ Dang Khoi Phan | Programmer | 43666887
   - File names must not contain spaces - underscores should be used instead to separate words.
   - Designs should be in PNG24 format
 
-## Plan 
+## Plan ##
 
-###nWeek | Course es | D | Team plan | Deliverables | Tools and resources needed 
- | ------------------
-Pro----- | -------------- | ---------------- | ---------------------------
+Week | Course events | Team plan | Deliverables | Tools and resources needed 
+-------- | ------------------- | -------------- | ---------------- | ---------------------------
 7 | Proposal due Monday 23:59 | Finalize the design concept, decide on whether to create a horizontal prototype or a vertical prototype, and start implementation. Bella will need to come up with several designs for the UI. Khoi and Nhan will start implementing the core functionality of the app. Soobin will gather user and usability requirements | A set of different design styles for the app. A basic app that have some functionality such as simple buttons. Survey responses for requirements | Illustrator, React Native, surveys to gather requirements
 8 | Stand-up session on Friday | By friday, there should be at least some basic functionality done for the app. The main design style will be chosen and if possible, implemented into the app using CSS styling. Bella and Soobin will do user testing with the designs | An app with some styling implemented. More functionalities in the app. Feedback from users regarding the designs | React Native, CSS Styling 
 9 |   | At the beginning of the week, a meeting will be held to determine the feasibility of the project based on what has been done so far, and a set of core features will be chosen to implement in code and design | A clearer direction for the project, as well as a new set of tasks to be done | Team meeting on Monday
 10 | Stand-up session on Friday | More coding and design work to be done | A better-looking prototype | Illustrator, React Native and possibly other frameworks and plugins
 11 |   | At this stage, the prototype should be ready for usability testing. Soobin and Bella will be in charge of carrying out user testing with the current prototype while Khoi and Nhan continues on implementing more features | Feedback from user testing sessions. More functionality for the prototype | Surveys, Code and Persistence.
 12 | Stand-up session on Friday | More usability testing and implementation | More feedback and features implemented | A desire to succeed.
-
+13 | Demonstration in class on Friday | A stable version of the prototype will be finished by Thursday, and the group will meet up before the demonstration to make final organizations for the workshop | The final version of the prototype | Hope.
 
 
 ### Goals (and timeframes)
