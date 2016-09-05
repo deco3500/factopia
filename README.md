@@ -28,7 +28,7 @@ source: http://i.imgur.com/FhewJSP.jpg?1
 ### Audience
   Since the app focus on visualizing the distribution of information and news, naturally space enthusiasts and teenager and people who are exposed to the many existing social network and desiring something with more than just blocks of text when they enquire for information will be its main target audience. However, as the project grows, we may redesign the user interface to accommodate a greater audience pool.
   
-#### How it differs from existing technologies
+### How it differs from existing technologies
   It should be clear by now that Factopia is not just a social network. It is a social network that focuses on making sure people can get updates from the most current news easily, but still ensure the quality of those news by providing a very rigorous community-driven verification system. On top of that, the visual concept is designed to make obtaining news more fun and exciting, and providing a brand new social media experience for the users.
   
 ## Team ##
@@ -83,7 +83,7 @@ Dang Khoi Phan | Programmer | 43666887
   - File names must not contain spaces - underscores should be used instead to separate words.
   - Designs should be in PNG24 format
 
-## Plan ##
+## Plan 
 
 Week | Course events | Team plan | Deliverables | Tools and resources needed 
 -------- | ------------------- | -------------- | ---------------- | ---------------------------
