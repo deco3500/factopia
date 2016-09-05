@@ -1,5 +1,6 @@
 # factopia
 ![alt tag](http://i.imgur.com/FhewJSP.jpg?1)
+source: http://i.imgur.com/FhewJSP.jpg?1
 
 ## Introduction
 **Factopia** is a visual social news network, that facilitates the distribution and verification news and information in the form of space expedition. It is a community based, community-driven social network.
@@ -94,8 +95,6 @@ Week | Course events | Team plan | Deliverables | Tools and resources needed
 12 | Stand-up session on Friday | More usability testing and implementation | More feedback and features implemented | A desire to succeed.
 13 | Demonstration in class on Friday | A stable version of the prototype will be finished by Thursday, and the group will meet up before the demonstration to make final organizations for the workshop | The final version of the prototype | Hope.
 
-
-### Goals (and timeframes)
 
 ## Tags
 ### Social and Mobile Computing
