@@ -1,6 +1,6 @@
 # factopia
 ![alt tag](http://i.imgur.com/FhewJSP.jpg?1)
-source: http://i.imgur.com/FhewJSP.jpg?1
+*source: http://i.imgur.com/FhewJSP.jpg?1*
 
 ## Introduction
 **Factopia** is a visual social news network, that facilitates the distribution and verification news and information in the form of space expedition. It is a community based, community-driven social network.
