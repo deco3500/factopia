@@ -2,6 +2,25 @@
 ![alt tag](http://i.imgur.com/FhewJSP.jpg?1)
 *source: http://i.imgur.com/FhewJSP.jpg?1*
 
+# ***Evolution of concept through Iterations***
+***Initial Idea:***
+  - Aim to create a medium that encourage facts to be distributed and verified.
+
+***1st Major Iteration:***
+  - Create a message board that provide user with facts that are verified and also allow them to post their own facts to be verified.
+  - Facts are mostly generated and/or verified by certified paid experts. 
+  
+***2nd Major Iteration:***
+  - Removing the need to employ paid experts by integate a point system where the points are given to active user with high credibility judging from his past activity. 
+  - Adding integrity aspect into the application.
+  - Facts or news will be facilitate by users rather than chosen experts.
+  - Heading to develop an user driven news distribution medium.
+
+***3st Major Iteration:***
+  - Finalizing on ideas and concepts
+  - Focus on the the visual aspect, aim create an unique experience that has never been done before.
+  - Bringing space travel as the main underline theme.
+
 ## Introduction
 **Factopia** is a visual social news network, that facilitates the distribution and verification news and information in the form of space expedition. It is a community based, community-driven social network.
 
