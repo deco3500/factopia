@@ -2,7 +2,8 @@
 ![alt tag](http://i.imgur.com/FhewJSP.jpg?1)
 *source: http://i.imgur.com/FhewJSP.jpg?1*
 
-# ***Evolution of concept through Iterations***
+# *Evolution of concept through Iterations*
+
 ***Initial Idea:***
   - Aim to create a medium that encourage facts to be distributed and verified.
 
@@ -16,7 +17,7 @@
   - Facts or news will be facilitate by users rather than chosen experts.
   - Heading to develop an user driven news distribution medium.
 
-***3st Major Iteration:***
+***3rd Major Iteration:***
   - Finalizing on ideas and concepts
   - Focus on the the visual aspect, aim create an unique experience that has never been done before.
   - Bringing space travel as the main underline theme.
