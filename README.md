@@ -3,7 +3,7 @@
 *source: http://i.imgur.com/FhewJSP.jpg?1*
 
 # LINK TO WEBSITE
-http://ec2-52-65-134-19.ap-southeast-2.compute.amazonaws.com
+https://khoiphan21.github.io/factopia-website/
 
 
 # *Evolution of concept through Iterations*
