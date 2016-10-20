@@ -25,6 +25,12 @@ https://khoiphan21.github.io/factopia-website/
   - Finalizing on ideas and concepts
   - Focus on the the visual aspect, aim create an unique experience that has never been done before.
   - Bringing space travel as the main underline theme.
+  
+***4th Major Iteration(Final):***
+  - Lock down on design concept.
+  - Include more social aspect with co-operative work as main focus.
+  - Conclude functions and transition.
+  - Pushing out code-based interactive prototype & mockup interactive prototype. 
 
 ## Introduction
 **Factopia** is a visual social news network, that facilitates the distribution and verification news and information in the form of space expedition. It is a community based, community-driven social network.
