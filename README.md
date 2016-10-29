@@ -5,6 +5,8 @@
 # LINK TO WEBSITE
 https://khoiphan21.github.io/factopia-website/
 
+# LINK TO PROMOTIONAL WEBSITE
+http://nimtrinhan95.wixsite.com/factopia
 
 # *Evolution of concept through Iterations*
 
