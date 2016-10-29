@@ -3,7 +3,7 @@
 *source: http://i.imgur.com/FhewJSP.jpg?1*
 
 # LINK TO WEBSITE
-You might need to check promotional website to understand how it work.
+You might need to check promotional website first to understand how it work.
 https://khoiphan21.github.io/factopia-website/
 
 # LINK TO PROMOTIONAL WEBSITE
