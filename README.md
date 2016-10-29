@@ -1,13 +1,16 @@
 # FACTOPIA
 
 ## Promotional Website
-You might need to check promotional website first to understand how it work.
 http://nimtrinhan95.wixsite.com/factopia
 
 ## Prototype
 > NOTE: Please refer to the 'Tutorial' section in the promotional website first - it explains how to use the interactive prototype.
 
 https://invis.io/DW94I7WCK#/200809770_MAIN
+
+## Summary
+
+## Design Process
 
 
 ## *Evolution of concept through Iterations*
