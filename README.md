@@ -1,11 +1,14 @@
-# factopia
+# FACTOPIA
 
-## LINK TO WEBSITE
+## Promotional Website
 You might need to check promotional website first to understand how it work.
-https://khoiphan21.github.io/factopia-website/
-
-## LINK TO PROMOTIONAL WEBSITE
 http://nimtrinhan95.wixsite.com/factopia
+
+## Prototype
+> NOTE: Please refer to the 'Tutorial' section in the promotional website first - it explains how to use the interactive prototype.
+
+https://invis.io/DW94I7WCK#/200809770_MAIN
+
 
 ## *Evolution of concept through Iterations*
 
